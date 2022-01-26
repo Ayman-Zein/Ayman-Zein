@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ayman-Zein
+- 👋 Hi, I’m Ayman-Zein
 - 👀 I’m interested in web development and mobile cross platform
-- 🌱 I’m currently learning web and cross platform technologies
+- 🌱 I’m currently worked as front-end developer
 
 <!---
 Ayman-Zein/Ayman-Zein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
